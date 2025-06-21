@@ -1223,7 +1223,7 @@ class VisualThemeInterpreter:
 if __name__ == "__main__":
     # Initialize the interpreter with LangChain and Mistral
     interpreter = VisualThemeInterpreter(
-        mistral_api_key="Os5Djkw6AcqVg9mSkltWsV4JiFbQ7lac",
+        mistral_api_key="",
         model_name="pixtral-12b-2409"
     )
     
